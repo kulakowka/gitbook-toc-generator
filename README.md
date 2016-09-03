@@ -30,3 +30,4 @@ GITBOOK_URL=https://kulakowka.gitbooks.io/feathers-api-demo/content npm run crea
 ```
 
 
+#### P.S. This shit code, but it works :shit: :shit: :shit:

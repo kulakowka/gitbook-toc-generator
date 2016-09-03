@@ -1,14 +1,19 @@
 {
-  "name": "feathers-docs-table-of-contents",
+  "name": "gitbook-toc-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Utility for generate table of contents for gitbook",
   "main": "index.js",
   "scripts": {
     "createJsonTree": "node createJsonTree.js",
     "createMarkdown": "node createMarkdown.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "gitbook",
+    "toc",
+    "feathers",
+    "feathersjs"
+  ],
   "author": "Anton Kulakov <kulakowka@gmail.com> (http://kulakowka.com)",
   "license": "MIT",
   "dependencies": {
