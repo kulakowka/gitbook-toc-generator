@@ -1,6 +1,5 @@
 # gitbook-toc-generator
 
-
 Default it is utility for generate table of contents for [feathers.js](http://feathersjs.com/) [documentation](http://docs.feathersjs.com/).
 
 But it can be used to create the table of contents of any other [gitbooks](https://www.gitbook.com/).
@@ -32,3 +31,6 @@ GITBOOK_URL=https://kulakowka.gitbooks.io/feathers-api-demo/content npm run crea
 
 
 #### P.S. This shit code, but it works :shit: :shit: :shit:
+
+> I did not have time to do it nicely. Therefore, the code turned out crooked. However, it works.
+> If it is useful to someone besides me, I can do refactoring.
