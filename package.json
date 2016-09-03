@@ -1,0 +1,22 @@
+{
+  "name": "feathers-docs-table-of-contents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "createJsonTree": "node createJsonTree.js",
+    "createMarkdown": "node createMarkdown.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anton Kulakov <kulakowka@gmail.com> (http://kulakowka.com)",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.0.1",
+    "cheerio": "^0.22.0",
+    "co": "^4.6.0",
+    "fs-extra": "^0.30.0",
+    "jsonfile": "^2.3.1",
+    "node-fetch": "^1.6.0"
+  }
+}
